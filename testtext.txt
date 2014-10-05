@@ -1,7 +1,0 @@
-Hello,
-
-This is a test for my first github repo!
-MORE TESTING ON GIT/GITHUB
-
-More lines are added...
-check
